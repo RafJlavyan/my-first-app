@@ -1,0 +1,64 @@
+.todoItem {
+    padding: 10px 20px;
+    color: white;
+    border: 1px solid white;
+    border-left: 1px solid white;
+    margin: 10px 0;
+    width: 100%;
+}
+
+.displayFlex {
+    display: flex;
+}
+
+.checkbox {
+    width: 20px;
+    border-radius: 20px;
+    margin-right: 20px;
+}
+
+.itemFlex {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.button {
+    background-color: transparent;
+    border: none;
+    border: 1px solid white;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin: 0 5px;
+    padding: 5px 20px;
+}
+
+.input {
+    margin: 10px 0;
+    width: 200px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid white;
+    color: white;
+}
+
+
+.button:hover {
+    color: white;
+}
+
+.h2 {
+    color: blanchedalmond;
+    font-family: sans-serif;
+}
+
+.p {
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.b {
+    color: rgb(87, 87, 87);
+}

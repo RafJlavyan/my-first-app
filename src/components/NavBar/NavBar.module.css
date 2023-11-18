@@ -1,0 +1,25 @@
+.navbar {
+    background: black;
+    padding: 20px;
+}
+
+.navbar a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar li {
+    margin-left: 20px;
+    list-style: none;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
